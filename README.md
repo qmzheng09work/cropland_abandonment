@@ -1,4 +1,4 @@
-Key output data
+Key output data (for review only, not for re-using or sharing)
 
 Notes:
 1. Data have been upscaled to 1-deg spatial resolution.
