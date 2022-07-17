@@ -2,7 +2,7 @@ Key output data (for review only, not for re-using or sharing)
 
 Notes:
 1. Data have been upscaled to 1-deg spatial resolution.
-2. Full data at original 10-second/5-min resoution will be made available upon publication
+2. Full data at original 10-second/5-min resoution will be made available later (upon acceptance)
 
 Content:
 1. Abandoned cropland map (1deg)
